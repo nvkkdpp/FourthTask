@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.exe
+C:\Users\Илья\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.deps.json
+C:\Users\Илья\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\Илья\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.genruntimeconfig.cache
+C:\Users\Илья\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.AssemblyReference.cache
