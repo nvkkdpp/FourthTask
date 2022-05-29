@@ -9,7 +9,7 @@ namespace FourthTask
             Console.WriteLine("Введите последовательность целых" +  " чисел, разделенных запятыми:");
             string input = Console.ReadLine();
             Console.WriteLine();
-            char[] dividers = { '1' , '2' , '3' };
+            char[] dividers = { ',' , ' ' };
             string[] segments = input.Split(dividers);
             int sum = 0;
             foreach(string s in segments)
@@ -21,14 +21,14 @@ namespace FourthTask
                         int num = 0;
                         if (Int32.TryParse(s, out num))
                         {
-                            Console.WriteLine("Oчepeднoe число = { 0 }",num);
+                            Console.WriteLine("Oчepeднoe число = {0}",num);
                             // Добазляем полученное число в сумму 
                             sum += num;
                         }
                     }
                 }
             }
-            Console.WriteLine("Сумма = { 0 }", sum);
+            Console.WriteLine( "Сумма = {0}", sum);
             Console.WriteLine("Нажмите <Enter> для " + "завершения программы ... ");
             Console.Read();
         }
